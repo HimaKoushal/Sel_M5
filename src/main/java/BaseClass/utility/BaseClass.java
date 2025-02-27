@@ -10,6 +10,7 @@ import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.BeforeTest;
 
 public class BaseClass {
+	//Changes done un github
 	@BeforeSuite
 	public void BS() {
 		System.out.println("Connect with the DB");
